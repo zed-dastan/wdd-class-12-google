@@ -1,0 +1,38 @@
+.all {
+    /* margin: auto; */
+    text-align: center;
+}
+
+.bar {
+    float: right;
+}
+.bar a {
+    margin: 9px;
+}
+i.far.fa-circle {
+    margin-right: 13px;
+}
+img {
+    margin-top: 197px;
+    margin-left: 170px;
+}
+.search {
+}
+
+.search button {
+    width: 520px;
+    border-radius: 20px;
+    height: 50px;
+    background: white;
+}
+
+i.fas.fa-search {
+    float: left;
+}
+.fa, .fas {
+    font-weight: 900;
+    float: right;
+}
+a {
+    text-decoration: none;
+}
